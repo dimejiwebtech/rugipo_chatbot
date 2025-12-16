@@ -1,0 +1,45 @@
+# =====================
+# Python / Django
+# =====================
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+.env
+.env.*
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Django
+staticfiles/
+media/
+*.pot
+*.pyc
+
+# =====================
+# Tailwind / Node
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tailwind build cache
+.tailwind-cache/
+
+# =====================
+# OS / Editor
+# =====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =====================
+# Render
+# =====================
+.render/
