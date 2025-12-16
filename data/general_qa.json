@@ -1,0 +1,573 @@
+{
+  "last_updated": "2025-12-15 17:16:12.014808+00:00",
+  "total_count": 63,
+  "qa_data": [
+    {
+      "id": 129,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "RUGIPO Elects New Students’ Union and SRC Executives for 2025/2026 Academic Session",
+      "answer": "The Independent Students’ Electoral Committee (ISEC) of Rufus Giwa Polytechnic, Owo (RUGIPO), has announced the results of the Students’ Union…",
+      "keywords": "elects, new, students’, union, src, executives, 2025/2026, academic",
+      "source_url": "https://r.rugipo.edu.ng/news/"
+    },
+    {
+      "id": 132,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "APPROVED CALENDAR FOR 2025/2026 ACADEMIC SESSION",
+      "answer": "The Independent Students’ Electoral Committee (ISEC) of Rufus Giwa Polytechnic, Owo (RUGIPO), has announced the results of the Students’ Union…",
+      "keywords": "approved, calendar, 2025/2026, academic, session, independent, students’, electoral",
+      "source_url": "https://r.rugipo.edu.ng/news/"
+    },
+    {
+      "id": 138,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "Rugipo: ASUP ban lifted, two years after",
+      "answer": "Barely 2 years after the activities of the Academic Staff Union of Polytechnics (ASUP) was banned i…",
+      "keywords": "asup, ban, lifted, two, years, after, barely",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 143,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "Rugipo announces resumption date for 2020/2021 Academic session",
+      "answer": "By Emmanuel Adeniyi, Owo  The Management of Rufus Giwa Polytechnic Owo (RUGIPO) has announced the r…",
+      "keywords": "announces, resumption, date, 2020/2021, academic, session, emmanuel, adeniyi",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 144,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "RUGIPO reopens for academic  activities",
+      "answer": "The Rufus Giwa Polytechnic Owo, (RUGIPO),  has been reopened for academic activities to conclude th…",
+      "keywords": "reopens, academic, activities, rufus, giwa, polytechnic, owo, (rugipo)",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 167,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "RUGIPO Release Approved Academic Calendar For 2025/2026 Session",
+      "answer": "By: Temidayo Atere  Editor: Rainat Ilemobayo  The management of Rufus Giwa Polytechnic, Owo (RUGIPO) has announced the official Academic Calendar fo…",
+      "keywords": "release, approved, academic, calendar, 2025/2026, session, temidayo, atere",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 168,
+      "category": "academic",
+      "category_display": "Academic Programs",
+      "question": "RUGIPO Non-Academic Staff Union Embarks on Indefinite Strike",
+      "answer": "RUGIPO Non-Academic Staff Union Embarks on Indefinite StrikeApril 07, 2025",
+      "keywords": "non, academic, staff, union, embarks, indefinite, strike",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 123,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "Rufus Giwa Polytechnic Acceptance Fee",
+      "answer": "The Rufus Giwa Polytechnic acceptance fee is the amount of money that you need to pay to confirm your acceptance of the admission offer. The acceptance fee for the 2025/2026 academic session is N15,000 for both full-time and part-time students. To pay the acceptance fee, you need to follow these steps:",
+      "keywords": "rufus, giwa, polytechnic, acceptance, fee",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 124,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "How to Pay Rufus Giwa Polytechnic Acceptance Fee",
+      "answer": "To pay the acceptance fee, you need to follow these steps: You must pay the acceptance fee within two weeks of receiving the admission offer, otherwise, you risk losing your admission. You must also pay the acceptance fee before you can pay the school fees. ” Also ReadRufus Giwa Polytechnic Cut-Off Markfor Admission ”",
+      "keywords": "how, pay, rufus, giwa, polytechnic, acceptance, fee",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 127,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "Rufus Giwa Polytechnic School Fees Payment",
+      "answer": "To pay the school fees, you need to follow these steps: You must pay the school fees before the deadline announced by the management, otherwise, you will incur a late payment penalty or forfeit your admission. You must also pay the school fees before you can participate in academic activities, such as lectures, tests, and exams.",
+      "keywords": "rufus, giwa, polytechnic, school, fees, payment, pay",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 137,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "RUGIPO Commences 2025/2026 Admission",
+      "answer": "By Sunday Afolayan The management of Rufus Giwa Polytechnic, Owo (RUGIPO), has announce…",
+      "keywords": "commences, 2025/2026, admission, sunday, afolayan, management, rufus, giwa",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 148,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "Rugipo: New courses accredited, as Mgt rolls out new admission opportunities for students",
+      "answer": "By Murphy Joe, Owo Following the new courses accredited by the National Board for Technical Educati…",
+      "keywords": "new, courses, accredited, mgt, rolls, out, admission",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 178,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "How to do course registration as a fresher?",
+      "answer": "1. Check your admission status on the RUGIPO portal >> Pay the acceptance fee, then pay for Admission Letter > Pay for Bio-Data and Verification of Result. \r\n\r\n2. After payment & verification. Log in to the portal and navigate to Course Registration.\r\n\r\n3. Select select courses, submit, print and visit your HOD's office to sign your course form.",
+      "keywords": "course registration",
+      "source_url": null
+    },
+    {
+      "id": 182,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "What are the registration steps for new students?",
+      "answer": "Step 1: Check Admission Status\r\nInput your UTME/Application Number to verify your status from https://studentportal.rugipo.edu.ng/.\r\n\r\nStep 2: Payment for Acceptance Fee\r\nOnly admitted candidates can proceed to pay the mandatory acceptance fee.\r\n\r\nStep 3: Admission Letter\r\nPay for and print your official admission letter after acceptance fee payment.\r\n\r\nStep 4: Verification of Result\r\nComplete the payment for result verification to finalize registration.",
+      "keywords": "registration steps, new students registration",
+      "source_url": null
+    },
+    {
+      "id": 183,
+      "category": "admissions",
+      "category_display": "Admissions & Registration",
+      "question": "How to apply for Rufus Giwa Polytechnic Admission?",
+      "answer": "ADMISSION INTO FULL/PART TIME PROGRAMMES\r\nApplications are currently being accepted from suitably qualified candidates for admission into National Diploma (ND) and Higher National Diploma (HND) Programmes for the 2025/2026 Academic Session.\r\n\r\nTo Apply, click on this link(https://studentform.rugipo.edu.ng/) then follow these steps:\r\n\r\nStep 1: Choose Form Option\r\nSelect either HND, ND for Full-time or Part-time programme.\r\n\r\nStep 2: Complete Admission Screening Form Registration\r\nJamb Year\t\r\nJAMB No\t\r\nSurName\t\r\nFirstName\r\nOtherName\r\nJAMB Score\t\r\nPhone Number\t\r\nEmail Address\r\nFaculty\t\r\nDepartment\t\r\nCourse Option\r\n\r\nStep 3: Proceed to Payment\r\nAfter filling the form, click on the submit button and proceed to payment.\r\n\r\nStep 4: Download Print Out\r\nOnce your payment has been confirmed, a PDF print out will be available to download. Save it and wit for further instructions!",
+      "keywords": "rufus giwa polytechnic admission, rugipo admission, apply for rufus giwa ND programme",
+      "source_url": null
+    },
+    {
+      "id": 177,
+      "category": "cet",
+      "category_display": "Civil Engineering Technology",
+      "question": "What are the admission requirements for Civil Engineering?",
+      "answer": "For Civil Engineering at Rufus Giwa Polytechnic (RUGIPO), you'll generally need 'O' Level credits in Math, Physics, Chemistry, and English, plus another relevant science/technical subject (Biology, Further Math, etc.)\r\n\r\nAlso, you must have nothing less than 150 as your current JAMB score",
+      "keywords": "admission requirements, civil engineering, civil",
+      "source_url": null
+    },
+    {
+      "id": 130,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "ANAN, PROWAN RUGIPO Chapter Join Global Community to Celebrate International Accounting Day",
+      "answer": "— Ajibade, Others Laud Accountants’ Integrity, Urge Ethical Conduct in Service The Association of National Accountants of Nigeria (ANAN) and…",
+      "keywords": "anan, prowan, chapter, join, global, community, celebrate, international",
+      "source_url": "https://r.rugipo.edu.ng/news/"
+    },
+    {
+      "id": 135,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "RUGIPO hails Prof Ajibefun's appointment as Commissioner for Education",
+      "answer": "The Rufus Giwa Polytechnic community has extended warm congratulations to Prof. Igbekel…",
+      "keywords": "hails, prof, ajibefun's, appointment, commissioner, education, rufus, giwa",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 141,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Arikawe, Fapetu, Abu, Others Elected as Rufus Giwa Poly ASUP Leaders",
+      "answer": "By Fidelis David  The Academy Staff Union of Polytechnics (ASUP), Rufus Giwa Polytechnic, Owo (RUGI…",
+      "keywords": "arikawe, fapetu, abu, others, elected, rufus, giwa, poly",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 149,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "BREAKING: Rugipo lifts ban on Union activities",
+      "answer": "Following the intervention of the Ondo State Government, the management of Rufus Giwa Polytechnic O…",
+      "keywords": "breaking, lifts, ban, union, activities, following, intervention, ondo",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 151,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Blackmailers After RUGIPO Governing Council, Chairman- Group",
+      "answer": "A group known as Owo Descendants Group, has said it has read with dismay a fairytale being circulat…",
+      "keywords": "blackmailers, after, governing, council, chairman, group, known",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 152,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Kayode Afolabi, Ado Adeboye Bag Meritorious award",
+      "answer": "By Olu Kay Ex-students of Rufus Giwa Polytechnic Owo, from Mass Communication Department , Ado Adeb…",
+      "keywords": "kayode, afolabi, ado, adeboye, bag, meritorious, award, olu",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 154,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Rugipo: Mass Comm. Dept Pioneer Set felicitates Prince Ebenezer Adeniyan over Appointment as CPS",
+      "answer": "Congratulatory Message From RUGIPO Mass Communication Dept Pioneer Set To Prince Ebenezer Adeniyan …",
+      "keywords": "mass, comm, dept, pioneer, set, felicitates, prince, ebenezer",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 155,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "RUGIPO Lauds TETfund's Donation",
+      "answer": "By David Fidelis The Management of the Rufus Giwa Polytechnic Owo, Ondo State, says in it's bid…",
+      "keywords": "lauds, tetfund's, donation, david, fidelis, management, rufus, giwa",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 156,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Akeredolu has Facilitated Positive Change in RUGIPO - Mgt",
+      "answer": "By David Fidelis The Management of the Rufus Giwa Polytechnic, Owo, Ondo state, on Wednesday said s…",
+      "keywords": "akeredolu, facilitated, positive, change, mgt, david, fidelis, management",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 164,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Rugipo shooting: Ondo Govt condoles with bereaved family",
+      "answer": "Ondo State Deputy Governor, Hon Lucky Aiyedatiwa on Friday promised that, the State would do an hol…",
+      "keywords": "shooting, ondo, govt, condoles, with, bereaved, family",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 165,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Rugipo: SSANIP, NASU activities suspended",
+      "answer": "The crisis rocking the Ondo State-owned Rufus Giwa Polytechnic Owo (Rugipo), took another dimension…",
+      "keywords": "ssanip, nasu, activities, suspended, crisis, rocking, ondo, state",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 166,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "RUGIPO has witnessed tremendous development under Banji Alabi ---- Alumni  President",
+      "answer": "The Alumni Association of Rufus Giwa Polytechnic, Owo(formerly Ondo State Polytechnic) has appealed…",
+      "keywords": "witnessed, tremendous, development, under, banji, alabi, alumni, president",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 172,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "COMRADE ONILE OLANIYI EMERGES AS RUGIPO SUEC PRESIDENT FOR 2025/2026 SESSION",
+      "answer": "By : Temidayo Atere  The Independent Students’ Electoral Committee (ISEC) of Rufus Giwa Polytechnic, Owo (RUGIPO) has officially declared Comrade On…",
+      "keywords": "comrade, onile, olaniyi, emerges, suec, president, 2025/2026, session",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 173,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "RUGIPO HOLDS STUDENTS’ UNION EXECUTIVE COUNCIL (SUEC) ELECTION TODAY",
+      "answer": "By Temidayo Atere  The long-awaited Students’ Union Executive Council (SUEC) election of Rufus Giwa Polytechnic, Owo (RUGIPO), is being held today, …",
+      "keywords": "holds, students’, union, executive, council, (suec), election, today",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 174,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "RUGIPO HOLDS MANIFESTO PRESENTATION FOR STUDENTS’ UNION EXECUTIVE ASPIRANTS",
+      "answer": "By: Temidayo Atere  Editor: Rainat Ilemobayo  The Independent Students  Electoral Committee  (ISEC)  of   Rufus Giwa Polytechnic , Owo ( RUGIPO ), o…",
+      "keywords": "holds, manifesto, presentation, students’, union, executive, aspirants, temidayo",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 175,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "ADEBAYO EMERGES AS NEWLY ELECTED SRC PRESIDENT OF RUGIPO",
+      "answer": "By: Temidayo Atere  Editor: Rainat Ilemobayo  The Independent Students Electoral Committee (ISEC) of Rufus Giwa Polytechnic, Owo (RUGIPO) has declar…",
+      "keywords": "adebayo, emerges, newly, elected, src, president, temidayo, atere",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 176,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "MASS COMMUNICATION STUDENTS ELECT NEW EXECUTIVES",
+      "answer": "By: Modupe Adeoye Edited by : Ayomiposi Akinrimisi  The Department of Mass Communication, Rufus Giwa Polytechnic, Owo, on Monday, November 3, 2025, …",
+      "keywords": "mass, communication, students, elect, new, executives, modupe, adeoye",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 179,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "What are the options offered in Computer Engineering Technology at Rufus Giwa?",
+      "answer": "At both ND and HND level, there are no options under Computer Engineering course. However, there are future plans to provide both Software and Hardware Engineering as options under the department.",
+      "keywords": "cte options, options offered in computer",
+      "source_url": null
+    },
+    {
+      "id": 162,
+      "category": "facilities",
+      "category_display": "Facilities & Campus",
+      "question": "Rugipo 103.3 fm,  a station that will impart lives--------- Adedowole",
+      "answer": "By Tosin Ayekodogba As part of effort of ensuring that information reach the masses through campus …",
+      "keywords": "103, station, that, will, impart, lives, adedowole, tosin",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 122,
+      "category": "fees",
+      "category_display": "Fees & Payments",
+      "question": "Rufus Giwa Polytechnic School Fees 2025/2026",
+      "answer": "Date:",
+      "keywords": "rufus, giwa, polytechnic, school, fees, 2025/2026, date",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 125,
+      "category": "fees",
+      "category_display": "Fees & Payments",
+      "question": "Rufus Giwa Polytechnic School Fees for Full-Time and Part-Time Students",
+      "answer": "The Rufus Giwa Polytechnic school fees for full-time students range from N70,000 to N90,000, while the school fees for part-time students range from N80,000 to N100,000. The school fees for the 2025/2026 academic session vary depending on the faculty and course of study. The table below shows the Rufus Giwa Polytechnic school fees breakdown for full-time and part-time students:",
+      "keywords": "rufus, giwa, polytechnic, school, fees, full, time, part",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 126,
+      "category": "fees",
+      "category_display": "Fees & Payments",
+      "question": "Rufus Giwa Polytechnic Hostel Fees",
+      "answer": "Rufus Giwa Polytechnic hostel fee is N10,000 (ten thousand naira only) per academic year for both male and female students. The hostel fee covers bed space and maintenance. Accommodations are available for all interested students per academic year. There are three major hostels located in strategic places in the polytechnic, which are:",
+      "keywords": "rufus, giwa, polytechnic, hostel, fees",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 128,
+      "category": "fees",
+      "category_display": "Fees & Payments",
+      "question": "Conclusion",
+      "answer": "The fee structure at Rufus Giwa Polytechnic offers students affordable access to quality tertiary education. Rufus Giwa Polytechnic tuition fees range from N70,000 to N100,000 across the institution’s various National Diploma and Higher National Diploma programs. Though fees are quite reasonable, scholarships, loans, and payment plans also help eligible students. we have given you details on Rufus Giwa Polytechnic School fees. If you have any questions please leave them in the comment box below thanks.",
+      "keywords": "conclusion, fee, structure, rufus, giwa, polytechnic, offers, students",
+      "source_url": "https://backtoschool.com.ng/rufus-giwa-polytechnic-school-fees/"
+    },
+    {
+      "id": 184,
+      "category": "fees",
+      "category_display": "Fees & Payments",
+      "question": "How to Pay for Acceptance Fee?",
+      "answer": "9802319",
+      "keywords": "",
+      "source_url": null
+    },
+    {
+      "id": 133,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Six months unpaid Salaries and employment racketeering at Ondo Poly: WHO’LL RESCUE RUGIPO STAFF",
+      "answer": "For  unpaid  six months salaries as a result of alleged administrative recklessness and allegedly i…",
+      "keywords": "six, months, unpaid, salaries, employment, racketeering, ondo, poly",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 134,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Government can no longer fund the Rugipo Staff School____Banji Alabi",
+      "answer": "The Ondo state government, through the Governing Council Chairman, of Rufus Giwa Polytechnic, Owo, …",
+      "keywords": "government, can, longer, fund, staff, school____banji, alabi, ondo",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 139,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "RUGIPO Holds 12th-23rd Combined Convocation Ceremonies October",
+      "answer": "The Ondo State Government-owned Rufus Giwa Polytechnic, Owo (RUGIPO), is set to relaunch one of i…",
+      "keywords": "holds, 12th, 23rd, combined, convocation, ceremonies, october, ondo",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 142,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Ondo Poly to Resume this Month",
+      "answer": "By. Oluwaseun Ogunniyi The Management of Rufus Giwa Polytechnic, Owo has approved  Friday 6th of No…",
+      "keywords": "ondo, poly, resume, this, month, oluwaseun, ogunniyi, management",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 147,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Rugipo: Mr Solomon Okioya becomes Head of Department",
+      "answer": "By Murphy Joe, Owo A lecturer from Mass Communication department, Rufus Giwa Polytechnic Owo, Mr So…",
+      "keywords": "solomon, okioya, becomes, head, department, murphy, joe, owo",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 158,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Governing Board Chair, Alabi has Rebuild RUGIPO to World Standard - Mgt",
+      "answer": "The Management of the Rufus Giwa Polytechnic Owo, Ondo State, on Thursday cleared the…",
+      "keywords": "governing, board, chair, alabi, rebuild, world, standard, mgt",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 159,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "ADEDOWOLE NAMED NEW GENERAL MANAGER OF RUGIPO FM",
+      "answer": "The incumbent Head of Department, Mass Communication, Rufus Giwa Polytechnic, Owo,  Princess Iyadun…",
+      "keywords": "adedowole, named, new, general, manager, incumbent, head, department",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 160,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "RUGIPO: MANAGEMENT RELEASES TIME TABLE FOR RECTORS CUP",
+      "answer": "By Emmanuel Adeniyi, Owo   The management of Rufus Giwa Polytechnic,Owo, has release the time table…",
+      "keywords": "management, releases, time, table, rectors, cup, emmanuel, adeniyi",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 161,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "RUGIPO targets 5000 fresh Jobs",
+      "answer": "No fewer than 5000 jobs will be created for the people of Ondo state by the various projects going…",
+      "keywords": "targets, 5000, fresh, jobs, fewer, than",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 163,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "Second semester: Rugipo announces New Resumption date",
+      "answer": "By Michael Olorunwa Isiaka, Owo Following the crisis that impede the commencement of the Second Sem…",
+      "keywords": "second, semester, announces, new, resumption, date, michael, olorunwa",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 169,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "RUGIPO: FIRST SEMESTER EXAM HOLDS MONDAY -- MGT",
+      "answer": "RUGIPO: FIRST SEMESTER EXAM HOLDS MONDAY -- MGTSeptember 01, 2022",
+      "keywords": "first, semester, exam, holds, monday, mgt",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 180,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "What are the rule and regulations for Rufus Giwa Polytechnic exams?",
+      "answer": "Eligibility Rules for Exam:\r\n\r\n1. Pay all required fees: School fees, acceptance, verification, and registration must be fully paid.\r\n\r\n2. Complete course registration: Only students who have registered their courses can sit for exams.\r\n\r\n3. Provide required documents: You may need your ID card, fee-receipt, or exam slip at the hall entrance.\r\n\r\nRules Before the Exam:\r\n\r\n1. Arrive early: Late entry may not be allowed or may reduce your available writing time.\r\n\r\n2. Check the timetable: Confirm your exam venue and time ahead.\r\n\r\n3. Sit only at your allocated seat: Avoid switching seats unless approved by the invigilator.\r\n\r\nProhibited Items in Exam Hall:\r\n\r\n1. No phones or electronic gadgets\r\n\r\n2. No notes, papers, textbooks, or written formulas unless permitted.\r\n\r\n3. No bags\r\n\r\nConduct in the Exam Hall:\r\n\r\n1. Maintain silence: Talking or disturbing others is not allowed.\r\n\r\n2. Follow invigilators’ instructions\r\n\r\n3. No impersonation: Sitting for another student is a serious offence.",
+      "keywords": "rules and regulations, exam rules",
+      "source_url": null
+    },
+    {
+      "id": 181,
+      "category": "general",
+      "category_display": "General RUGIPO Information",
+      "question": "What is the Approved Calendar For 2025/2026 Academic Session",
+      "answer": "The Acting Rector, on behalf of the Academic Board, has approved the Academic Calendar for the 2025/2026 Academic Session as follows:\r\n\r\nFIRST SEMESTER\r\n\r\nMon. 17 Nov. 2025 – Resumption & Registration of Fresh Students / Hostel Allocation\r\n\r\nFri. 28 Nov. 2025 – Orientation of Fresh Students\r\n\r\nMon. 24 Nov. 2025 – Resumption of Returning Students (excluding SIWES)\r\n\r\nMon. 8 Dec. 2025 – Commencement of Lectures (All Students)\r\n\r\nFri. 30 Jan. 2026 – Matriculation Ceremony\r\n\r\nFri. 27 Feb. 2026 – End of Lectures\r\n\r\nMon. 2 – Fri. 20 Mar. 2026 – First Semester Examinations\r\n\r\nFri. 15 May. 2026 – End of First Semester\r\n\r\nSIWES STUDENTS\r\n\r\nMon. 2 Mar. – Fri. 1 May. 2026 – Lectures\r\n\r\nMon. 4 – Fri. 15 May. 2026 – Examinations\r\n\r\n\r\nSECOND SEMESTER\r\n\r\nMon. 25 May. 2026 – Resumption of All Students\r\n\r\nMon. 25 May – Fri. 14 Aug. 2026 – Lectures\r\n\r\nMon. 27 – Fri. 31 Jul. 2026 – Students’ Union Week\r\n\r\nMon. 17 Aug. – Fri. 4 Sept. 2026 – Semester Examinations\r\n\r\nFri. 4 Sept. 2026 – End of Academic Session\r\n\r\nThis was contained in a circular to the Polytechnic community, signed by Mr. A. I. Ayodeji, Director of Academic Affairs.\r\n\r\nAll students and staff are advised to take note and comply accordingly.",
+      "keywords": "Academic Calendar",
+      "source_url": null
+    },
+    {
+      "id": 131,
+      "category": "news",
+      "category_display": "News & Events",
+      "question": "TRENDING NEWS",
+      "answer": "The Independent Students’ Electoral Committee (ISEC) of Rufus Giwa Polytechnic, Owo (RUGIPO), has announced the results of the Students’ Union…",
+      "keywords": "trending, news, independent, students’, electoral, committee, (isec), rufus",
+      "source_url": "https://r.rugipo.edu.ng/news/"
+    },
+    {
+      "id": 136,
+      "category": "news",
+      "category_display": "News & Events",
+      "question": "Rugipo: SUG election didn't turn bloody --- Mgt",
+      "answer": "By Emmanuel Adeniyi, Owo  Following the recent news flying via social media that one student was ki…",
+      "keywords": "sug, election, didn't, turn, bloody, mgt, emmanuel, adeniyi",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 153,
+      "category": "news",
+      "category_display": "News & Events",
+      "question": "Rugipo: Press week celebrated in grandstyle",
+      "answer": "By Kayode Afolabi, Ado Adeboye  It was an event filled with pomp and pageantry as the Nigeria Union…",
+      "keywords": "press, week, celebrated, grandstyle, kayode, afolabi, ado, adeboye",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 157,
+      "category": "news",
+      "category_display": "News & Events",
+      "question": "Thisday Newspaper's Fidelis David Bags Merit Award",
+      "answer": "By Kehinde Ogunkorode The Nigeria Union of Campus Journalist (NUCJ), Rufus Giwa Polytechnic,  (RUGI…",
+      "keywords": "thisday, newspaper's, fidelis, david, bags, merit, award, kehinde",
+      "source_url": "https://www.newslineng.com.ng/search?q=rugipo"
+    },
+    {
+      "id": 140,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "Rugipo: Colleagues, students extol Adedowole as she bows out as HOD Mass Comm",
+      "answer": "By Murphy Joe, Owo The Head of department Mass Communication, Rufus Giwa Polytechnic, Owo, Mrs Iyad…",
+      "keywords": "colleagues, students, extol, adedowole, she, bows, out, hod",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 145,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "Rugipo online lectures is real, says Adedowole",
+      "answer": "By: Kayode Afolabi   After several doubt from the students of Rufus Giwa Polytechnic, Owo, about th…",
+      "keywords": "online, lectures, real, says, adedowole, kayode, afolabi, after",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 146,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "Rugipo holds 30th Matriculation ceremony in grandstyle",
+      "answer": "..... Rector, Dr Ogundahunsi urges New students to shun social vices _ The Rector of the Ondo State…",
+      "keywords": "holds, 30th, matriculation, ceremony, grandstyle, rector, ogundahunsi, urges",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 150,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "Rugipo resumption date, count me out ----Adedowole",
+      "answer": "Following  a publication making the round in some quarters over the resumption date for students of…",
+      "keywords": "resumption, date, count, out, adedowole, following, publication, making",
+      "source_url": "https://www.newslineng.com.ng/search?q=rufus+giwa"
+    },
+    {
+      "id": 170,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "RUGIPO: MGT ANNOUNCES RESUMPTION DATE FOR ALL STUDENTS",
+      "answer": "RUGIPO: MGT ANNOUNCES RESUMPTION DATE FOR ALL STUDENTSJanuary 06, 2023",
+      "keywords": "mgt, announces, resumption, date, all, students",
+      "source_url": "https://www.rugipopress.com.ng/"
+    },
+    {
+      "id": 171,
+      "category": "student_services",
+      "category_display": "Student Services",
+      "question": "RUGIPOPRESS",
+      "answer": "By Temidayo Atere  The National Association Of Social Science And Communication Studies Students (NASSCOSS) Online Dance Challenge, which was organi…",
+      "keywords": "rugipopress, temidayo, atere, national, association, social, science, communication",
+      "source_url": "https://www.rugipopress.com.ng/"
+    }
+  ]
+}

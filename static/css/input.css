@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sans: 'Poppins', sans-serif;
+    --color-mainGreen: #017C01;
+    --color-mainYellow: #FCFF02;
+
+    --background-image-abet: url('../static/images/abet.jpg');
+}

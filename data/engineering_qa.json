@@ -1,0 +1,33 @@
+{
+  "last_updated": "2025-12-08 14:45:02.278413+00:00",
+  "total_count": 3,
+  "qa_data": [
+    {
+      "id": 3,
+      "category": "cte",
+      "category_display": "Computer Engineering Technology",
+      "question": "Where is the HOD of Computer Engineering Office Located?",
+      "answer": "You can find the HOD's office at the Poly Market, Before the Artisan Centre",
+      "keywords": "hod computer, cte hod office",
+      "source_url": null
+    },
+    {
+      "id": 2,
+      "category": "eeet",
+      "category_display": "Electrical/Electronics Engineering Technology",
+      "question": "What is the duration of the Electrical Engineering program?",
+      "answer": "The program is a 4-year National Diploma (ND) or Higher National Diploma (HND) program depending on your entry level.",
+      "keywords": "duration, electrical, years, program",
+      "source_url": null
+    },
+    {
+      "id": 4,
+      "category": "met",
+      "category_display": "Mechanical Engineering Technology",
+      "question": "Can i study MEC in RUGIPO",
+      "answer": "Yes",
+      "keywords": "mec",
+      "source_url": null
+    }
+  ]
+}

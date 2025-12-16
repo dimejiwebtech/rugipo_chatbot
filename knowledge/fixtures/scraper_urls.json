@@ -1,0 +1,62 @@
+[
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 1,
+    "fields": {
+      "url": "https://thenigeriaeducationnews.com/",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "Nigeria Education News - RUGIPO updates and stories"
+    }
+  },
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 2,
+    "fields": {
+      "url": "https://www.rugipopress.com.ng/",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "RUGIPO Press - Official news and announcements"
+    }
+  },
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 3,
+    "fields": {
+      "url": "https://myschool.ng/news/latest?school=rufus-giwa-polytechnic",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "MySchool.ng - RUGIPO news and updates"
+    }
+  },
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 4,
+    "fields": {
+      "url": "https://r.rugipo.edu.ng/news/",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "RUGIPO Official News - Internal news portal"
+    }
+  },
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 5,
+    "fields": {
+      "url": "https://www.newslineng.com.ng/search?q=rugipo",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "NewsLine Nigeria - RUGIPO search results"
+    }
+  },
+  {
+    "model": "knowledge.scraperurl",
+    "pk": 6,
+    "fields": {
+      "url": "https://www.newslineng.com.ng/search?q=rufus+giwa",
+      "is_active": true,
+      "scrape_frequency": "daily",
+      "notes": "NewsLine Nigeria - Rufus Giwa search results"
+    }
+  }
+]

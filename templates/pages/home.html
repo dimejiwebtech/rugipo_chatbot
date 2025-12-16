@@ -1,0 +1,283 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %}Home - RUGIPO Student Support System{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="relative h-[50vh] md:h-[70vh] w-full overflow-hidden">
+      <video 
+    class="absolute top-0 left-0 w-full h-full object-cover"
+    autoplay 
+    muted 
+    loop 
+    playsinline
+  >
+    <source src="{% static 'videos/hero-video.mp4' %}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <div class="absolute top-0 left-0 w-full h-full bg-black/50"></div>
+
+  <!-- Content -->
+  <div class="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-6">
+    <h1 class="text-4xl md:text-6xl font-bold mb-4">RUGIPO Student Support Chatbot</h1>
+    <p class="text-lg md:text-xl mb-8 max-w-2xl">
+      Chatbot developed by Oladimeji Shadrach Aliu to help students navigate Rufus Giwa Polytechnic smoothly
+    </p>
+    <button class="px-8 py-3 bg-mainGreen hover:bg-mainYellow rounded-lg transition hover:text-mainGreen font-bold mx-auto">
+      Get Started
+    </button>
+  </div>
+</section>
+
+<!-- How to Use Section -->
+<section class="py-12 bg-gray-50">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl font-bold text-center mb-10 text-mainGreen">How to Use the Assistant</h2>
+        
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="text-center">
+                <div class="bg-mainGreen text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <span class="text-2xl font-bold">1</span>
+                </div>
+                <h3 class="font-bold mb-2">Click Chat Icon</h3>
+                <p class="text-gray-600 text-sm">Find the green chat button at the bottom right corner</p>
+            </div>
+            
+            <div class="text-center">
+                <div class="bg-mainGreen text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <span class="text-2xl font-bold">2</span>
+                </div>
+                <h3 class="font-bold mb-2">Ask Your Question</h3>
+                <p class="text-gray-600 text-sm">Type any question about courses, registration, or facilities</p>
+            </div>
+            
+            <div class="text-center">
+                <div class="bg-mainGreen text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                    <span class="text-2xl font-bold">3</span>
+                </div>
+                <h3 class="font-bold mb-2">Get Instant Help</h3>
+                <p class="text-gray-600 text-sm">Receive accurate answers immediately from our AI assistant</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Faculty of Engineering Section -->
+
+<section class="py-12 bg-gray-50" id="deparment">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl md:text-4xl font-bold text-center mb-10 text-mainGreen">Faculty of Engineering</h2>
+
+    <p class="max-w-2xl mx-auto text-lg md:text-xl mb-8">
+      Chatbot developed by Oladimeji Shadrach Aliu to help students navigate Rufus Giwa Polytechnic smoothly
+    </p>
+        
+        <div class="grid md:grid-cols-3 gap-6">
+
+            <!-- Abet Engineering -->
+            <article class="relative h-64 rounded-lg shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+                <!-- Background Image -->
+                <img src="{% static 'images/abet.jpg' %}" alt="Civil Engineering" class="absolute inset-0 w-full h-full object-cover">
+                
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/50 group-hover:bg-black/60 transition-all"></div>
+                
+                <!-- Content -->
+                <div class="relative h-full flex flex-col justify-end p-6 text-white z-10">
+                    <h3 class="font-bold text-lg mb-2">Agricultural and Bio-Environmental Technology</h3>
+                    <p class="text-sm text-gray-200">Software, hardware, and network systems</p>
+                </div>
+            </article>
+
+            <!-- Civil Engineering -->
+            <article class="relative h-64 rounded-lg shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+                <!-- Background Image -->
+                <img src="{% static 'images/civil-engineering.jpeg' %}" alt="Civil Engineering" class="absolute inset-0 w-full h-full object-cover">
+                
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/50 group-hover:bg-black/60 transition-all"></div>
+                
+                <!-- Content -->
+                <div class="relative h-full flex flex-col justify-end p-6 text-white z-10">
+                    <h3 class="font-bold text-lg mb-2">Civil Engineering</h3>
+                    <p class="text-sm text-gray-200">Construction, structures, and infrastructure development</p>
+                </div>
+            </article>
+
+            <!-- Computer Engineering -->
+            <article class="relative h-64 rounded-lg shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+                <!-- Background Image -->
+                <img src="{% static 'images/computer-engineer.jpg' %}" alt="Civil Engineering" class="absolute inset-0 w-full h-full object-cover">
+                
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/50 group-hover:bg-black/60 transition-all"></div>
+                
+                <!-- Content -->
+                <div class="relative h-full flex flex-col justify-end p-6 text-white z-10">
+                    <h3 class="font-bold text-lg mb-2">Computer Engineering</h3>
+                    <p class="text-sm text-gray-200">Software, hardware, and network systems</p>
+                </div>
+            </article>
+
+            <!-- Electrical Engineering -->
+            <article class="relative h-64 rounded-lg shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+                <!-- Background Image -->
+                <img src="{% static 'images/electrical-engineering.webp' %}" alt="Civil Engineering" class="absolute inset-0 w-full h-full object-cover">
+                
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/50 group-hover:bg-black/60 transition-all"></div>
+                
+                <!-- Content -->
+                <div class="relative h-full flex flex-col justify-end p-6 text-white z-10">
+                    <h3 class="font-bold text-lg mb-2">Electrical Engineering</h3>
+                    <p class="text-sm text-gray-200">Power systems, electronics, and telecommunications</p>
+                </div>
+            </article>
+
+            <!-- Mechanical Engineering -->
+            <article class="relative h-64 rounded-lg shadow-md hover:shadow-lg transition-shadow overflow-hidden group">
+                <!-- Background Image -->
+                <img src="{% static 'images/mechanical-engineering.jpg' %}" alt="Civil Engineering" class="absolute inset-0 w-full h-full object-cover">
+                
+                <!-- Overlay -->
+                <div class="absolute inset-0 bg-black/50 group-hover:bg-black/60 transition-all"></div>
+                
+                <!-- Content -->
+                <div class="relative h-full flex flex-col justify-end p-6 text-white z-10">
+                    <h3 class="font-bold text-lg mb-2">Mechanical Engineering</h3>
+                    <p class="text-sm text-gray-200">Manufacturing, machines, and thermal systems</p>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+
+<!-- FAQs -->
+     <section id="faq">
+        <div class="container mx-auto">
+            <h2 class="mb-6 text-3xl font-semibold text-center md:text-4xl">
+                Frequently Asked Questions
+            </h2>
+            <p class="max-w-lg px-6 mx-auto text-center text-grayishBlue">
+                Get quick answers about the RUGIPO Student Support Chatbot and how it can help you.
+            </p>
+        </div>
+     </section>
+     
+     <!-- Accordion -->
+      <section id="faq-accordion">
+        <!-- Main Container -->
+         <div class="container mx-auto px-6 mb-32">
+            <!-- Accordion Container -->
+             <div class="max-w-2xl m-8 mx-auto overflow-hidden">
+                <!-- Tab 1 -->
+                 <article class="py-1 border-b outline-none group" tabindex="1">
+                    <!-- Tab flex container -->
+                     <div class="flex items-center justify-between py-3 text-gray-500 transition duration-500 cursor-pointer group ease">
+                        <!-- Tab Title -->
+                         <div class="transition duration-500 ease group-hover:text-mainGreen">What kind of questions can I ask the chatbot?</div>
+                         <!-- Arrow -->
+                        <div class="transition duration-500 ease group-focus:-rotate-180 group-focus:text-mainGreen">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                                <path
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="3"
+                                d="M1 1l8 8 8-8"/>
+                            </svg>
+                        </div>
+                     </div>
+                     <!-- Content -->
+                      <div class="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
+                        <p class="py-2 text-justify text-gray-400">
+                            You can ask about course registration, school fees, hostel accommodation, departmental requirements, campus facilities, academic calendar, exam schedules, and general information about Rufus Giwa Polytechnic. The chatbot is designed to help with any student-related queries.
+                        </p>
+                      </div>
+                 </article>
+
+                <!-- Tab 2 -->
+                 <article class="py-1 border-b outline-none group" tabindex="2">
+                    <!-- Tab flex container -->
+                     <div class="flex items-center justify-between py-3 text-gray-500 transition duration-500 cursor-pointer group ease">
+                        <!-- Tab Title -->
+                         <div class="transition duration-500 ease group-hover:text-mainGreen">Is the chatbot available 24/7?</div>
+                         <!-- Arrow -->
+                        <div class="transition duration-500 ease group-focus:-rotate-180 group-focus:text-mainGreen">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                                <path
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="3"
+                                d="M1 1l8 8 8-8"/>
+                            </svg>
+                        </div>
+                     </div>
+                     <!-- Content -->
+                      <div class="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
+                        <p class="py-2 text-justify text-gray-400">
+                            Yes! The RUGIPO Student Support Chatbot is available round the clock to assist you. Whether it's early morning or late at night, you can get instant answers to your questions anytime you need help.
+                        </p>
+                      </div>
+                 </article>
+
+                <!-- Tab 3 -->
+                 <article class="py-1 border-b outline-none group" tabindex="3">
+                    <!-- Tab flex container -->
+                     <div class="flex items-center justify-between py-3 text-gray-500 transition duration-500 cursor-pointer group ease">
+                        <!-- Tab Title -->
+                         <div class="transition duration-500 ease group-hover:text-mainGreen">How accurate is the information provided?</div>
+                         <!-- Arrow -->
+                        <div class="transition duration-500 ease group-focus:-rotate-180 group-focus:text-mainGreen">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                                <path
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="3"
+                                d="M1 1l8 8 8-8"/>
+                            </svg>
+                        </div>
+                     </div>
+                     <!-- Content -->
+                      <div class="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
+                        <p class="py-2 text-justify text-gray-400">
+                            The chatbot is trained with official RUGIPO information and is regularly updated to ensure accuracy. However, for critical decisions or official documentation, we recommend verifying with the relevant school office or department.
+                        </p>
+                      </div>
+                 </article>
+
+                <!-- Tab 4 -->
+                 <article class="py-1 border-b outline-none group" tabindex="4">
+                    <!-- Tab flex container -->
+                     <div class="flex items-center justify-between py-3 text-gray-500 transition duration-500 cursor-pointer group ease">
+                        <!-- Tab Title -->
+                         <div class="transition duration-500 ease group-hover:text-mainGreen">Can the chatbot help with personal student issues?</div>
+                         <!-- Arrow -->
+                        <div class="transition duration-500 ease group-focus:-rotate-180 group-focus:text-mainGreen">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                                <path
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="3"
+                                d="M1 1l8 8 8-8"/>
+                            </svg>
+                        </div>
+                     </div>
+                     <!-- Content -->
+                      <div class="overflow-hidden transition duration-500 group-focus:max-h-screen max-h-0 ease">
+                        <p class="py-2 text-justify text-gray-400">
+                            The chatbot provides general guidance and information about school policies and procedures. For personal issues requiring individual attention, such as grade disputes or disciplinary matters, you'll need to contact the appropriate department or faculty office directly.
+                        </p>
+                      </div>
+                 </article>
+             </div>
+            <!-- Accordion Container -->
+         </div>
+      </section>
+
+
+{% endblock %}

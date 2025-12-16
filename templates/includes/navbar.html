@@ -1,0 +1,66 @@
+{% load static %}
+<!-- Top Header  -->
+<div class="bg-mainGreen text-white">
+    <div class="py-4 max-w-7xl mx-auto px-6 flex justify-between items-center">
+        <div class="hidden md:flex items-center space-x-6">
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-location-dot"></i>
+                <span>P.M.B. 1019, Owo, Ondo State.</span>
+            </div>
+
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-envelope"></i>
+                <span>registrar@rugipo.edu.ng</span>
+            </div>
+        </div>
+
+        <div class="flex items-center space-x-4">
+            <a href="#" class="px-4 py-2 border-2 border-white rounded-lg hover:bg-white hover:text-mainGreen transition font-medium">Student Portal</a>
+            <a href="#" class="px-4 py-2 border-2 border-white rounded-lg hover:bg-white hover:text-mainGreen transition font-medium">Staff Portal</a>
+        </div>
+    </div>
+</div>
+
+<!-- Logo & Menu (sticky) -->
+<nav class="sticky top-0 z-50 bg-white shadow-md">
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-20">
+            <!-- Logo -->
+            <div class="flex items-center space-x-3">
+                <a href="{% url 'home' %}"><img src="{% static 'images/rugipo_logo.png' %}" alt="RUGIPO Logo" class="h-16 w-auto"></a>    
+            </div>
+            
+            <!-- Desktop Menu -->
+            <ul class="hidden md:flex space-x-8">
+                <li><a href="{% url 'home' %}" class="text-gray-700 hover:text-mainGreen font-medium">Home</a></li>
+                <li><a href="{% url 'about' %}" class="text-gray-700 hover:text-mainGreen font-medium">About</a></li>
+                <li><a href="{% url 'contact' %}" class="text-gray-700 hover:text-mainGreen font-medium">Contact</a></li>
+                <li><a href="#department" class="text-gray-700 hover:text-mainGreen font-medium">Departments</a></li>
+                <li><a href="#faq" class="text-gray-700 hover:text-mainGreen font-medium">FAQs</a></li>
+            </ul>
+
+            <!-- Desktop Button -->
+            <a href="#" class="hidden md:block px-8 py-2 bg-mainYellow border-2 border-mainYellow rounded-lg shadow-md font-bold text-mainGreen uppercase hover:bg-mainGreen hover:text-white hover:border-mainGreen">Admission Portal</a>
+
+            <!-- Mobile Menu Button -->
+            <button id="mobile-menu-btn" class="md:hidden z-50">
+                <svg class="w-6 h-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path class="menu-open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+                    <path class="menu-close hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                </svg>
+            </button>
+        </div>
+
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden absolute top-20 left-0 w-full bg-white shadow-lg">
+            <ul class="flex flex-col space-y-4 p-6">
+                <li><a href="{% url 'home' %}" class="block text-gray-700 hover:text-mainGreen font-medium">Home</a></li>
+                <li><a href="{% url 'about' %}" class="block text-gray-700 hover:text-mainGreen font-medium">About</a></li>
+                <li><a href="{% url 'contact' %}" class="block text-gray-700 hover:text-mainGreen font-medium">Contact</a></li>
+                <li><a href="#department" class="block text-gray-700 hover:text-mainGreen font-medium">Departments</a></li>
+                <li><a href="#faq" class="block text-gray-700 hover:text-mainGreen font-medium">FAQs</a></li>
+                <li><a href="#" class="block px-8 py-2 bg-mainYellow border-2 border-mainYellow rounded-lg shadow-md font-bold text-mainGreen uppercase text-center">Admission Portal</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>

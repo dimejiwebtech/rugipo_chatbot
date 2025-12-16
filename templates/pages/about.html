@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}About - RUGIPO Chatbot{% endblock %}
+
+{% block content %}
+<section class="py-16">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 class="text-4xl font-bold mb-8 text-[#017C01]">About RUGIPO AI Chatbot</h1>
+        
+        <div class="bg-white p-8 rounded-lg shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-4 text-[#017C01]">Project Overview</h2>
+            <p class="text-gray-700 leading-relaxed">
+                This AI-powered chatbot is designed to improve student support services at Rufus Giwa Polytechnic, 
+                with a special focus on the Faculty of Engineering. The system provides instant answers to student 
+                queries, reducing wait times and improving overall student experience.
+            </p>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-4 text-[#017C01]">Objectives</h2>
+            <ul class="space-y-3 text-gray-700">
+                <li class="flex items-start">
+                    <span class="text-[#017C01] mr-2">•</span>
+                    <span>Provide 24/7 student support services without human limitations</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-[#017C01] mr-2">•</span>
+                    <span>Answer frequently asked questions about registration, exams, and fees</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-[#017C01] mr-2">•</span>
+                    <span>Guide students through administrative processes step-by-step</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-[#017C01] mr-2">•</span>
+                    <span>Offer specialized support for Faculty of Engineering students</span>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="bg-white p-8 rounded-lg shadow-md">
+            <h2 class="text-2xl font-bold mb-4 text-[#017C01]">Technology</h2>
+            <p class="text-gray-700 leading-relaxed">
+                Built with Django framework, OpenAI's advanced language models, and modern web technologies 
+                to deliver fast, accurate, and helpful responses. The system combines artificial intelligence 
+                with a curated knowledge base to provide the best possible support experience.
+            </p>
+        </div>
+    </div>
+</section>
+{% endblock %}
